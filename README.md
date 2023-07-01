@@ -1,4 +1,3 @@
-# About Me
 
 Hello! 👋 I'm Evan Fajar Krisdiyanto, a passionate full-stack web developer from Yogyakarta.
 
@@ -22,11 +21,9 @@ Here are some of the programming languages and frameworks I'm proficient in:
 
 ## 📫 How to Reach Me
 
-You can connect with me through the following platforms:
-
 <p align="center">
   <a href="mailto:evanfajar12455@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" title="Email" />
+  <img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email" title="Email" />
   </a>
   <a href="https://www.linkedin.com/in/evan-fajar-27b50b249">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" />
@@ -37,6 +34,5 @@ You can connect with me through the following platforms:
 </p>
 
 ## ⚡ Fun Fact
-Here's a fun fact about me:
 
-I love programming, web design, anime (but I'm not a hardcore fan!), and listening to music. I graduated in 2023 from SMK N 1 Bantul, specializing in Software Engineering. I'm based in Bantul, Yogyakarta.
+I love programming, web design, anime, and listening to music. I graduated in 2023 from SMK N 1 Bantul, specializing in Software Engineering. I live in Bantul, Yogyakarta.
