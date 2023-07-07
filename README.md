@@ -1,5 +1,4 @@
-
-Hello! 👋 I'm Evan Fajar Krisdiyanto, a passionate full-stack web developer from Yogyakarta.
+<h1>Hello! 👋 I'm Evan Fajar Krisdiyanto</h1> 
 
 ## 💻 Programming Languages and Frameworks
 
@@ -15,9 +14,8 @@ Here are some of the programming languages and frameworks I'm proficient in:
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
   <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" title="Laravel" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular" />
+  <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" title="WordPress" />
 </p>
-
-
 
 ## 📫 How to Reach Me
 
@@ -33,6 +31,6 @@ Here are some of the programming languages and frameworks I'm proficient in:
   </a>
 </p>
 
-## ⚡ Fun Fact
+## ⚡ About Me
 
-I love programming, web design, anime, and listening to music. I graduated in 2023 from SMK N 1 Bantul, specializing in Software Engineering. I live in Bantul, Yogyakarta.
+I'm currently working remotely at DV9 International, specializing in software engineering. I have a passion for programming, web design, anime, and listening to music. I graduated in 2023 from SMK N 1 Bantul with a specialization in Software Engineering. I live in Bantul, Yogyakarta.
